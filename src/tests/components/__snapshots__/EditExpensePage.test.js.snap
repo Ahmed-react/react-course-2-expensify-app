@@ -21,5 +21,3 @@ exports[`should render EditExpensePage 1`] = `
   </button>
 </div>
 `;
-
-exports[`should render EditExpensePage correctly 1`] = `undefined`;
